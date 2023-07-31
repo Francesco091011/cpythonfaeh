@@ -1,4 +1,4 @@
-This is Python version 3.13.0 alpha 0
+This is Python version 3.13.0 alpha 0 FAEH's mode
 =====================================
 
 .. image:: https://github.com/python/cpython/workflows/Tests/badge.svg
@@ -24,8 +24,8 @@ General Information
 -------------------
 
 - Website: https://www.python.org
-- Source code: https://github.com/python/cpython
-- Issue tracker: https://github.com/python/cpython/issues
+- Source code: https://github.com/francesco091011/cpythonfaeh
+- Issue tracker: https://github.com/francesco091011/cpythonfaeh/issues
 - Documentation: https://docs.python.org
 - Developer's Guide: https://devguide.python.org/
 
